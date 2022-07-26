@@ -1,0 +1,13 @@
+{
+  "name": "alipay-qrcode-get-cookies",
+  "description": "支付宝扫码登录获取cookie",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qiangmouren/alipay-qrcode-get-cookies"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "puppeteer-chromium-resolver": "^8.0.0"
+  }
+}
