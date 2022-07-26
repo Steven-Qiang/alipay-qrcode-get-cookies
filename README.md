@@ -47,7 +47,7 @@ id						|string		|任务id
 :----						|:---			|:---	
 code						|int			|响应码
 state							|string			|二维码状态
-cookie						|string			|cookie
+cookies						|string			|cookies
 tasks				|int		|后台任务数量
 
 示例：
